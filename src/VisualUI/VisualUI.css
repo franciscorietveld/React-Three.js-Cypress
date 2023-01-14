@@ -1,0 +1,10 @@
+.VisualUI {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.react-flow__node-main {
+  padding: 10px;
+  background-color: #556677;
+  color: white;
+}
